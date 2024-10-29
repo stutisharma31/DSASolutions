@@ -1,4 +1,5 @@
-public class Recursion {
+#Recursion
+  public class Recursion {
   public static void Dec(int n){
       if(n==1){
           System.out.print(1);
