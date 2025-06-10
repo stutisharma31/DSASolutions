@@ -5,10 +5,12 @@ This file contains DSA solutions in java
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/stutisharma31/DSASolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/stutisharma31/DSASolutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/stutisharma31/DSASolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/stutisharma31/DSASolutions/tree/master/0021-merge-two-sorted-lists) |
 ## Trie
 |  |
@@ -26,4 +28,8 @@ This file contains DSA solutions in java
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stutisharma31/DSASolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/stutisharma31/DSASolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
