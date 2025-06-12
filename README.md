@@ -32,4 +32,8 @@ This file contains DSA solutions in java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/stutisharma31/DSASolutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stutisharma31/DSASolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 <!---LeetCode Topics End-->
