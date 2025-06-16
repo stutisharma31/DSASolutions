@@ -5,6 +5,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+
+
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">nums = [1,2,4]</span></p>
 
