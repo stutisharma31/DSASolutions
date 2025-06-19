@@ -35,5 +35,14 @@ This file contains DSA solutions in java
 ## Array
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/stutisharma31/DSASolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stutisharma31/DSASolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+## Greedy
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/stutisharma31/DSASolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/stutisharma31/DSASolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
