@@ -20,18 +20,22 @@ This file contains DSA solutions in java
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stutisharma31/DSASolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stutisharma31/DSASolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stutisharma31/DSASolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/stutisharma31/DSASolutions/tree/master/0002-add-two-numbers) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
 | ------- |
