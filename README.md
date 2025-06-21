@@ -38,6 +38,7 @@ This file contains DSA solutions in java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/stutisharma31/DSASolutions/tree/master/0002-add-two-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stutisharma31/DSASolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ This file contains DSA solutions in java
 ## Greedy
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stutisharma31/DSASolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/stutisharma31/DSASolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stutisharma31/DSASolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
