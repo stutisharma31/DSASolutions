@@ -25,6 +25,7 @@ This file contains DSA solutions in java
 ## String
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/stutisharma31/DSASolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stutisharma31/DSASolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stutisharma31/DSASolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -56,4 +57,8 @@ This file contains DSA solutions in java
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/stutisharma31/DSASolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stutisharma31/DSASolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/stutisharma31/DSASolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
