@@ -23,6 +23,8 @@ The <strong>Manhattan Distance</strong> between two cells <code>(x<sub>i</sub>, 
 
 <p>Change <code>s[2]</code> from <code>&#39;S&#39;</code> to <code>&#39;N&#39;</code>. The string <code>s</code> becomes <code>&quot;NWNE&quot;</code>.</p>
 
+
+
 <table style="border: 1px solid black;">
 	<thead>
 		<tr>
