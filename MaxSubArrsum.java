@@ -8,6 +8,7 @@ public class MaxSubArrSum {
             prefix[i]=prefix[i-1]+numbers[i];
 
         }
+        
         for(int i=0;i<numbers.length;i++){
             int start=i;
             for(int j=0;j<numbers.length;j++){
