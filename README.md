@@ -27,6 +27,7 @@ This file contains DSA solutions in java
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/stutisharma31/DSASolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stutisharma31/DSASolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3618-find-the-original-typed-string-ii](https://github.com/stutisharma31/DSASolutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stutisharma31/DSASolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/stutisharma31/DSASolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -61,4 +62,12 @@ This file contains DSA solutions in java
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/stutisharma31/DSASolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/stutisharma31/DSASolutions/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/stutisharma31/DSASolutions/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
