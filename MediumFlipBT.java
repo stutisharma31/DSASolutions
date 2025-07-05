@@ -4,7 +4,6 @@ class Solution {
         
         return checker(root1, root2);
     }
-
     private boolean checker(TreeNode node1, TreeNode node2) {
         if (node1 == null && node2 == null) {
             return true;
