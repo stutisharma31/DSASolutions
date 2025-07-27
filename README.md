@@ -45,6 +45,7 @@ This file contains DSA solutions in java
 ## Array
 |  |
 | ------- |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/stutisharma31/DSASolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/stutisharma31/DSASolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stutisharma31/DSASolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
